@@ -1,2 +1,1 @@
-# Chislaki_labs
-# Лабораторные работы по численным методам
+# Labs on Numerical Methods
